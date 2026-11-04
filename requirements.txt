@@ -1,0 +1,7 @@
+# Draw the map from data/scored_grid.csv, and rebuild the grid from the public services
+branca==0.8.2
+folium==0.20.0
+matplotlib==3.11.2
+numpy==2.5.4
+requests==2.34.2
+shapely==2.2.0

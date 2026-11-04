@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+output/
+
+# Downloads from the public services, cached by `python -m agate_map rebuild`
+data/raw/
